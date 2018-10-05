@@ -21,7 +21,6 @@ openshift-sync:1.0.20
 # items from the list below
 #
 # processed sec adv https://jenkins.io/blog/2017/07/10/security-advisory/
-# processed sec adv https://jenkins.io/security/advisory/2017-08-07/
 # processed sec adv https://jenkins.io/security/advisory/2018-01-22/
 # processed sec adv https://jenkins.io/security/advisory/2018-02-05/
 # processed sec adv https://jenkins.io/security/advisory/2018-02-14/
@@ -65,7 +64,7 @@ urltrigger:0.43
 active-directory:2.8
 ant:1.8
 weblogic-deployer-plugin:4.1
-envinject:2.16
+#envinject:2.16
 external-monitor-job:1.7
 http_request:1.8.22
 jacoco:3.0.1
