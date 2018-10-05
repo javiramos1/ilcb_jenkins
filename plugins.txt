@@ -9,7 +9,7 @@ openshift-client:1.0.13
 # pipeline DSL, and 1.6.2 has the support for opting in the transfer of proxy related
 # env vars from the master to the client, and 1.7.1 fixes
 # https://issues.jenkins-ci.org/browse/SECURITY-883
-kubernetes:1.7.1
+#kubernetes:1.7.1
 
 # fabric8 openshift sync
 openshift-sync:1.0.20
@@ -30,6 +30,8 @@ openshift-sync:1.0.20
 # processed sec adv https://jenkins.io/security/advisory/2018-06-04/
 # processed sec adv https://jenkins.io/security/advisory/2018-06-25/
 #
+
+maven-plugin:3.1.2
 htmlpublisher:1.16
 mailer:1.21
 config-file-provider:2.17
