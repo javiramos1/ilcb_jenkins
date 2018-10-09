@@ -88,6 +88,7 @@ pipeline-utility-steps:1.5.1
 # some plugins helpful for global shared libs were broken out of workflow aggregator
 pipeline-github-lib:1.0
 github-organization-folder:1.6
+build-monitor-plugin:1.12
 
 # Jenkins v2 specific
 matrix-auth:2.2
